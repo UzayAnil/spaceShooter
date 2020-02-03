@@ -1,5 +1,5 @@
 ## Space Shooter
-
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/spaceShooter)](https://repl.it/github/UzayAnil/spaceShooter)
 The classic retro game recreated using `Pygame` and `python`.
 
 <a href="https://news.ycombinator.com/item?id=10925168"><img src="https://raw.githubusercontent.com/wingify/across-tabs/master/images/hn.png" width="150" height="20"/></a>
